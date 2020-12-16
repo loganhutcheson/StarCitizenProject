@@ -1,0 +1,15 @@
+/Users/logan/Code/StarCitizenProject/bin/Debug/net5.0/StarCitizenProject.deps.json
+/Users/logan/Code/StarCitizenProject/bin/Debug/net5.0/StarCitizenProject.runtimeconfig.json
+/Users/logan/Code/StarCitizenProject/bin/Debug/net5.0/StarCitizenProject.runtimeconfig.dev.json
+/Users/logan/Code/StarCitizenProject/bin/Debug/net5.0/StarCitizenProject.dll
+/Users/logan/Code/StarCitizenProject/bin/Debug/net5.0/ref/StarCitizenProject.dll
+/Users/logan/Code/StarCitizenProject/bin/Debug/net5.0/StarCitizenProject.pdb
+/Users/logan/Code/StarCitizenProject/obj/Debug/net5.0/StarCitizenProject.csprojAssemblyReference.cache
+/Users/logan/Code/StarCitizenProject/obj/Debug/net5.0/StarCitizenProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logan/Code/StarCitizenProject/obj/Debug/net5.0/StarCitizenProject.AssemblyInfoInputs.cache
+/Users/logan/Code/StarCitizenProject/obj/Debug/net5.0/StarCitizenProject.AssemblyInfo.cs
+/Users/logan/Code/StarCitizenProject/obj/Debug/net5.0/StarCitizenProject.csproj.CoreCompileInputs.cache
+/Users/logan/Code/StarCitizenProject/obj/Debug/net5.0/StarCitizenProject.dll
+/Users/logan/Code/StarCitizenProject/obj/Debug/net5.0/ref/StarCitizenProject.dll
+/Users/logan/Code/StarCitizenProject/obj/Debug/net5.0/StarCitizenProject.pdb
+/Users/logan/Code/StarCitizenProject/obj/Debug/net5.0/StarCitizenProject.genruntimeconfig.cache
