@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/logan/Code/StarCitizenProject/StarCitizenProject.csproj": {}
+    "/home/logan/Documents/Code/StarCitizenProject/StarCitizenProject.csproj": {}
   },
   "projects": {
-    "/Users/logan/Code/StarCitizenProject/StarCitizenProject.csproj": {
+    "/home/logan/Documents/Code/StarCitizenProject/StarCitizenProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/logan/Code/StarCitizenProject/StarCitizenProject.csproj",
+        "projectUniqueName": "/home/logan/Documents/Code/StarCitizenProject/StarCitizenProject.csproj",
         "projectName": "StarCitizenProject",
-        "projectPath": "/Users/logan/Code/StarCitizenProject/StarCitizenProject.csproj",
-        "packagesPath": "/Users/logan/.nuget/packages/",
-        "outputPath": "/Users/logan/Code/StarCitizenProject/obj/",
+        "projectPath": "/home/logan/Documents/Code/StarCitizenProject/StarCitizenProject.csproj",
+        "packagesPath": "/home/logan/.nuget/packages/",
+        "outputPath": "/home/logan/Documents/Code/StarCitizenProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/logan/.nuget/NuGet/NuGet.Config"
+          "/home/logan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/106/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

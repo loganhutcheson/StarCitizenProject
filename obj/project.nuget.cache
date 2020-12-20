@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WcRAGIE3tpLaWYp1P5hffN4wrXXih3NxVD+FzLC6wbHiTTVwy0WbCXDTEb9usDbg+ymp8l7MCFiEZn/I8QVFhQ==",
+  "dgSpecHash": "tjFzM6aYZBSkmwDthUmIDqVd1U7XatGeFnH9EiR4Yv/5X7am/lamKiRsLnrKG3MC1927OGy80qoIL+k4SKDyAA==",
   "success": true,
-  "projectFilePath": "/Users/logan/Code/StarCitizenProject/StarCitizenProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/logan/Documents/Code/StarCitizenProject/StarCitizenProject.csproj",
+  "expectedPackageFiles": [
+    "/home/logan/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
